@@ -4,6 +4,9 @@
 ## Project Summary:
 This project focuses on solving 22 advanced business problems related to Amazon sales optimization. By leveraging SQL queries, we aim to uncover valuable insights that can enhance sales performance, improve inventory management, and optimize overall business operations.
 
+### **Entity Relationship Diagram (ERD)**
+![ERD](https://github.com/saitejhas16/Amazon_sales_analysis/blob/main/erd.png)
+
 ## Goal of the Project:
 To develop SQL queries that address various business challenges, providing actionable insights to optimize Amazon sales and operations.
 
@@ -115,7 +118,7 @@ An ERD diagram is included to visually represent the database schema and relatio
 
 ---
 
-![ERD Scratch](https://github.com/Ajaya210/Amzon_Sql_Project/blob/88255fa6f4e24a50a21411cf16f51ae6f68cb4f7/erd2.png)
+![ERD Scratch](https://github.com/saitejhas16/Amazon_sales_analysis/blob/main/erd2.png)
 
 ## **Database Setup & Design**
 
@@ -840,11 +843,6 @@ This project enabled me to:
 This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
 
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
-
----
-
-### **Entity Relationship Diagram (ERD)**
-![ERD](https://github.com/Ajaya210/Amzon_Sql_Project/blob/1b7aca1187201869009bebd05e3392ba9b958c2e/erd.png)
 
 ---
 
