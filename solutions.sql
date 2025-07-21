@@ -461,7 +461,7 @@ ORDER BY 5 DESC
 
 
 /*
-15. Inactive Sellers
+14. Inactive Sellers
 Identify sellers who haven’t made any sales in the last 6 months.
 Challenge: Show the last sale date and total sales from those sellers.
 */
@@ -487,7 +487,7 @@ GROUP BY 1
 -- 
 
 /*
-16. IDENTITY customers into returning or new
+15. IDENTITY customers into returning or new
 if the customer has done more than 5 return categorize them as returning otherwise new
 Challenge: List customers id, name, total orders, total returns
 */
@@ -519,7 +519,7 @@ GROUP BY 1
 
 
 /*
-17. Top 5 Customers by Orders in Each State
+16. Top 5 Customers by Orders in Each State
 Identify the top 5 customers with the highest number of orders for each state.
 Challenge: Include the number of orders and total sales for each customer.
 */
@@ -549,7 +549,7 @@ WHERE rank <=5
 
 
 /*
-18. Revenue by Shipping Provider
+17. Revenue by Shipping Provider
 Calculate the total revenue handled by each shipping provider.
 Challenge: Include the total number of orders handled and the average delivery time for each provider.
 */
@@ -581,7 +581,7 @@ SELECT * FROM shippings
 
 
 /*
-19. Top 10 product with highest decreasing revenue ratio compare to last year(2022) and current_year(2023)
+18. Top 10 product with highest decreasing revenue ratio compare to last year(2022) and current_year(2023)
 Challenge: Return product_id, product_name, category_name, 2022 revenue and 2023 revenue decrease ratio at end Round the result
 Note: Decrease ratio = cr-ls/ls* 100 (cs = current_year ls=last_year)
 */
