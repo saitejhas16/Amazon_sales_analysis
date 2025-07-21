@@ -1,4 +1,4 @@
-# Amazon USA Sales Analysis Project
+# Amazon Sales Analysis Project
 
 
 ## Project Summary:
@@ -845,4 +845,14 @@ This advanced SQL project successfully demonstrates my ability to solve real-wor
 By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
 ---
+## 🤝 Let's Collaborate!
+
+I'm open to collaboration on Python,data analysis, SQL automation, and media analytics projects.
+
+📧 Email: [saitejhas49@gmail.com](mailto:saitejhas49@gmail.com)  
+🔗 LinkedIn: [L.N. Sai Tejhas](https://linkedin.com/in/lnsaitejhas)
+
+---
+
+> Thank you for exploring this project! ⭐ If you found it helpful, consider giving the repo a star!
 
