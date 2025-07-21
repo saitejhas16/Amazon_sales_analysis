@@ -2,7 +2,7 @@
 
 
 ## Project Summary:
-This project focuses on solving 22 advanced business problems related to Amazon sales optimization. By leveraging SQL queries, we aim to uncover valuable insights that can enhance sales performance, improve inventory management, and optimize overall business operations.
+This project focuses on solving 18 advanced business problems related to Amazon sales optimization. By leveraging SQL queries, we aim to uncover valuable insights that can enhance sales performance, improve inventory management, and optimize overall business operations.
 
 ### **Entity Relationship Diagram (ERD)**
 ![ERD](https://github.com/saitejhas16/Amazon_sales_analysis/blob/main/erd.png)
@@ -63,31 +63,23 @@ To develop SQL queries that address various business challenges, providing actio
 - **Query**: Top 10 products by the number of returns.
 - **Challenge**: Display the return rate as a percentage of total units sold for each product.
 
-### 14. Orders Pending Shipment
-- **Query**: Find orders that have been paid but are still pending shipment.
-- **Challenge**: Include order details, payment date, and customer information.
-
-### 15. Inactive Sellers
+### 14. Inactive Sellers
 - **Query**: Identify sellers who haven’t made any sales in the last 6 months.
 - **Challenge**: Show the last sale date and total sales from those sellers.
 
-### 16. Identify Returning or New Customers
+### 15. Identify Returning or New Customers
 - **Query**: Categorize customers as returning or new based on their return behavior.
 - **Challenge**: List customer ID, name, total orders, and total returns.
 
-### 17. Cross-Sell Opportunities
-- **Query**: Find customers who purchased product A but not product B.
-- **Challenge**: Suggest cross-sell opportunities by displaying matching product categories.
-
-### 18. Top 5 Customers by Orders in Each State
+### 16. Top 5 Customers by Orders in Each State
 - **Query**: Identify the top 5 customers with the highest number of orders for each state.
 - **Challenge**: Include the number of orders and total sales for each customer.
 
-### 19. Revenue by Shipping Provider
+### 17. Revenue by Shipping Provider
 - **Query**: Calculate the total revenue handled by each shipping provider.
 - **Challenge**: Include the total number of orders handled and the average delivery time for each provider.
 
-### 20. Top 10 Products with Highest Decreasing Revenue Ratio
+### 18. Top 10 Products with Highest Decreasing Revenue Ratio
 - **Query**: Identify the top 10 products with the highest decreasing revenue ratio compared to last year.
 - **Challenge**: Return product ID, product name, category name, 2022 revenue, and 2023 revenue decrease ratio.
 
